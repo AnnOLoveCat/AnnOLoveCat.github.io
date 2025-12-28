@@ -2,182 +2,205 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width= device-width, height=device-height, initial-scale=1.0, user-scalable=yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Annu's Home</title>
+
     <!-- font-awesome -->
-    <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+
     <!-- extra fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap"rel="stylesheet"/>
+    <link
+      href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap"
+      rel="stylesheet"
+    />
+
     <!-- styles -->
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
+
   <body>
-    <!--preloader-->
+    <!-- preloader -->
     <div class="preloader">
-        <img src="/videos/Loading_icon.gif" alt="preloader" />
+      <img src="videos/Loading_icon.gif" alt="preloader" />
     </div>
+
     <nav id="nav">
-        <div class="nav-center">
-            <div class="nav-header">
-                <img src="/pics/index_logo.png" alt="logo" class="logo" />
-                <button class="nav-toggle">
-                    <i class="fas fa-bars"></i>
-                </button>
-            </div>
-            <!--links container -->
-            <div class="links-container">
-                <!-- links -->
-                <ul class="links">
-                    <li>
-                    <a href="#index"
-                         class = "scoll-link">home</a>
-                    </li>
-                    <li>
-                    <a href="about.html"
-                        class = "scoll-link">about</a>
-                    </li>
-                    <li>
-                    <a href="notes.html"
-                        class = "scoll-link">code notes</a>
-                    </li>
-                    <li>
-                    <a href="videos.html" 
-                        class = "scoll-link">videos</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- social media -->
-            <ul class="social-icons">
-                <li>
-                <a href="https://github.com/AnnOLoveCat?tab=repositories">
-                    <i class="fab fa-github"></i>
-                </a>
-                </li>
-                <li>
-                <a href="https://twitter.com/AnnULoveCat">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                </li>
-                <li>
-                <a href="https://www.youtube.com/channel/UCuxsgEw1ZFdXdkIkWLL-D3Q">
-                    <i class="fab fa-youtube"></i>
-                </a>
-                </li>
-                <li>
-                <a href="https://www.linkedin.com/in/lovecat-annu-16224a22b/">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-                </li>
-                <li>
-                <a href="https://www.instagram.com/annulovecat/">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                </li>
-            </ul>
+      <div class="nav-center">
+        <div class="nav-header">
+          <img src="pics/index_logo.png" alt="logo" class="logo" />
+          <button class="nav-toggle" aria-label="toggle navigation">
+            <i class="fas fa-bars"></i>
+          </button>
         </div>
+
+        <!-- links container -->
+        <div class="links-container">
+          <ul class="links">
+            <li><a href="#home" class="scroll-link">home</a></li>
+            <li><a href="about.html" class="scroll-link">about</a></li>
+            <li><a href="notes.html" class="scroll-link">code notes</a></li>
+            <li><a href="videos.html" class="scroll-link">videos</a></li>
+          </ul>
+        </div>
+
+        <!-- social media -->
+        <ul class="social-icons">
+          <li>
+            <a href="https://github.com/AnnOLoveCat?tab=repositories" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/AnnULoveCat" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UCuxsgEw1ZFdXdkIkWLL-D3Q" target="_blank" rel="noopener">
+              <i class="fab fa-youtube"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/lovecat-annu-16224a22b/" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/annulovecat/" target="_blank" rel="noopener">
+              <i class="fab fa-instagram"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
     </nav>
-    <!--header-->
-    <header id = "home">
-        <video class="video-container" muted autoplay loop>
-            <source src = "/videos/business.mp4" type="video/mp4" />
-        </video>
-        <h1>welcome to Annu's website</h1>
-        <!--video switcher-->
-        <button class = "switch-btn">
-            <span>play</span>
-            <span>pause</span>
-            <span class = "switch"></span>
-        </button>
+
+    <!-- header -->
+    <header id="home">
+      <video class="video-container" muted autoplay loop playsinline>
+        <source src="videos/business.mp4" type="video/mp4" />
+      </video>
+
+      <h1>welcome to Annu's website</h1>
+
+      <!-- video switcher -->
+      <button class="switch-btn" type="button">
+        <span>play</span>
+        <span>pause</span>
+        <span class="switch"></span>
+      </button>
     </header>
 
-    <section class="questions">
-        <!--title-->
-        <div class="title">
-            <h2>general question</h2>
+    <!-- About -->
+    <section class="about-me" id="about-me">
+      <div class="title">
+        <h2>About Me</h2>
+      </div>
+
+      <!-- 建議：文字 + 照片同層，方便左右排 -->
+      <div class="section-center about-content">
+        <div class="about-text">
+          <p>
+            Hello! I’m <strong>Annu(Gordon)</strong>, a graduate from the
+            <strong>Department of Information Management, National Taipei University of Business (NTUB)</strong>.
+          </p>
+          <p>
+            I’m passionate about the world of technology — from artificial intelligence and machine learning
+            to software development and data analysis. I believe that in this fast-changing digital era,
+            mastering information systems is the key to staying competitive.
+          </p>
+          <p>
+            I am currently focusing on the field of AI detection, shifting my interest from traditional algorithm research to more practical and impactful applications of artificial intelligence.
+            I’ve been exploring object detection technologies such as Ultralytics and the YOLO family, and I have a foundational understanding of how AI model training works — including data preprocessing,
+            image augmentation (like intentional blur or distortion to enhance robustness), and generating training labels through tools like LabelImg, which the model later uses for self-correction and iterative improvement.
+          </p>
+          <p>
+            My present goals are to enhance model accuracy, speed up training efficiency, and deepen my understanding of how techniques like Retrieval-Augmented Generation (RAG) can support intelligent systems.
+            I aim to strengthen my skills in building reliable, real-world AI detection solutions and move closer to becoming a professional capable of applying innovative AI technologies to solve practical problems.
+          </p>
         </div>
 
-        <!--questions-->
-        <div class="section-center">
-            <!--single question 1-->
-            <article class="question">
-                <!---title question-->
-                <div class="question-title">
-                    <p>what's my major subject and which school did i graduated</p>
-                    <button type = "button" class="question-btn">
-                        <span class = "plus-icon">
-                            <i class="far fa-plus-square"></i>
-                        </span>
-                        <span class = "minus-icon">
-                            <i class="far fa-minus-square"></i>
-                        </span>
-                    </button>
-                </div>
-                <!--questions text-->
-                <div class="question-text">
-                    <p>i major at Information management and i graduated at NTUB
-                        (National Taipei University of Business)
-                    </p>
-                </div>
-            </article>
-            <!--end of single questions -->
-
-            <!--single question 2-->
-            <article class="question">
-                <!---title question-->
-                <div class="question-title">
-                    <p>why you want major at this department</p>
-                    <button type = "button" class="question-btn">
-                        <span class = "plus-icon">
-                            <i class="far fa-plus-square"></i>
-                        </span>
-                        <span class = "minus-icon">
-                            <i class="far fa-minus-square"></i>
-                        </span>
-                    </button>
-                </div>
-                <!--end of single questions -->
-
-                <!--questions text-->
-                <div class="question-text">
-                    <p>because i realize this era is focus about internet information and algorithm
-                        and this era is getting more technological, if don't have a lot information
-                        from internet, is will easy got lost own's competitiveness
-                        so i want to learn about like AI,machine learning and basic programming
-                        not just for building self competitiveness,it make me have passion
-                        to learning about newest information how to effect to this era. 
-                    </p>
-                </div>
-            </article>
-            <!--end of single questions -->
-            
-            <!--single question 3-->
-            <article class="question">
-                <!---title question-->
-                <div class="question-title">
-                    <p>which achievement you want to get achieve </p>
-                    <button type = "button" class="question-btn">
-                        <span class = "plus-icon">
-                            <i class="far fa-plus-square"></i>
-                        </span>
-                        <span class = "minus-icon">
-                            <i class="far fa-minus-square"></i>
-                        </span>
-                    </button>
-                </div>
-                <!--questions text-->
-                <div class="question-text">
-                    <p>i want understanding algorithm 
-                        create my first app or unity games
-                        and be profasional System Analyst.
-                    </p>
-                </div>
-            </article>
-            <!--end of single questions -->
+        <div class="about-photo">
+          <img src="pics/Me.jpg" alt="Annu profile photo" />
         </div>
+      </div>
     </section>
 
+    <!-- Footer -->
+    <footer class="site-footer">
+      <div class="footer-top">
+        <div class="footer-logo">
+          <img src="pics/logo.png" alt="Annu Logo" />
+        </div>
+
+        <div class="footer-links">
+          <div class="footer-column">
+            <h4>Resources</h4>
+            <ul>
+              <li><a href="#">Blog</a></li>
+              <li><a href="#">Reports</a></li>
+              <li><a href="#">Events</a></li>
+              <li><a href="#">Videos</a></li>
+              <li><a href="#">Status</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-column">
+            <h4>Product</h4>
+            <ul>
+              <li><a href="#">Docs</a></li>
+              <li><a href="#">API</a></li>
+              <li><a href="#">Changelog</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-column">
+            <h4>Platform</h4>
+            <ul>
+              <li><a href="#">AI Tools</a></li>
+              <li><a href="#">Projects</a></li>
+              <li><a href="#">Integrations</a></li>
+            </ul>
+          </div>
+
+          <div class="footer-column">
+            <h4>Company</h4>
+            <ul>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Careers</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div class="footer-copy">
+          <p>© <span id="year"></span> Annu. All rights reserved.</p>
+        </div>
+
+        <div class="footer-policies">
+          <a href="#">Terms of Service</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Cookie Policy</a>
+        </div>
+
+        <div class="footer-icons">
+          <a href="https://github.com/AnnOLoveCat" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>
+          <a href="https://www.youtube.com" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+
     <!-- javascript -->
-    <script src="/js/index.js"></script>
-    <script src="/js/switch.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/switch.js"></script>
   </body>
 </html>

@@ -48,9 +48,20 @@ const navbar = document.getElementById("nav");
 const topLink = document.querySelector(".top-link");
 
 window.addEventListener('scroll', function(){
-    if(!navbar || !topLink) return;
 
     const scrollHeight = window.pageYOffset;
+    if (navbar) {
+        const navHeight = navbar.getBoundingClientRect().height;
+        if (scrollHeight > navHeight) navbar.classList.add("fixed-nav");
+        else navbar.classList.remove("fixed-nav");
+    }
+
+    // top-link 有才處理 show-link（不要被 navbar 綁住）
+    if (topLink) {
+        if (scrollHeight > 500) topLink.classList.add("show-link");
+        else topLink.classList.remove("show-link");
+    }
+
     const navHeight = navbar.getBoundingClientRect().height;
 
     if (scrollHeight > navHeight) {
@@ -73,36 +84,35 @@ const scrolllinks = document.querySelectorAll(".scroll-link, .scroll-link");
 scrolllinks.forEach(function(link){
     link.addEventListener("click", function(e){
         const href = e.currentTarget.getAttribute("href")
-        if (!href || !href.startsWith("#")) return;
+        
+        if (!href) return;
 
-        //prevent Default
+        if (!href.startsWith("#")) return;
+
+        if (href === "#") return;
+
         e.preventDefault();
 
-        //nagative to specific spot
-        const id = e.currentTarget.getAttribute(".href").slice(1);
+        const id = href.slice(1);
         const element = document.getElementById(id);
 
-        //calculate heights
-        const navHeight = navbar.getBoundingClientRect().height;
-        const containerHeight = linksContainer.getBoundingClientRect().height;
+        if (!element) return;
 
-        const fixedNav = navbar.classList.contains("fixed-nav");
+        const navHeight = navbar ? navbar.getBoundingClientRect().height : 0;
+        const containerHeight = linksContainer ? linksContainer.getBoundingClientRect().height : 0;
+        const fixedNav = navbar ? navbar.classList.contains("fixed-nav") : false;
+
         let position = element.offsetTop - navHeight;
-
-        if (!fixedNav) {
-            position = position - navHeight;
-        }
-        if (navHeight > 82) {
-            position = position + containerHeight;
-        }
+        if (!fixedNav) position -= navHeight;
+        if (navHeight > 82) position += containerHeight;
 
         window.scrollTo({
-            left: 0,
-            top: position,
-            behavior: "smooth"
+        left: 0,
+        top: position,
+        behavior: "smooth",
         });
-        
-        linksContainer.style.height = 0;
+
+        if (linksContainer) linksContainer.style.height = "0px";
     });
 });
 

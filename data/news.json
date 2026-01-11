@@ -1,10 +1,42 @@
 [
   {
+    "time": "03:30",
+    "title": "川普對格陵蘭勢在必得 北約盟軍最高統帥：中俄船艦虎視眈眈",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5306745",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/12/5306745_1_1.jpg",
+    "published_at": "2026-01-11T20:17:10+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:27",
+    "title": "伊朗反政府抗爭遭血腥鎮壓 人權組織：538人死、1.06萬人被拘",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5306743",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/12/5306743_1_1.jpg",
+    "published_at": "2026-01-11T20:17:10+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:12",
+    "title": "非政府組織：伊朗至少538人命喪鎮壓逾1萬人遭拘留",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5306746",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-01-11T20:17:10+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:12",
+    "title": "林昀儒完勝張禹珍 隔798天再奪WTT男單冠軍",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5306747",
+    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
+    "published_at": "2026-01-11T20:17:10+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》 Chinese online manipulation soars: NSB",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306700",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/phpsomFwL.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
+    "published_at": "2026-01-11T20:17:10+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "《TAIPEI TIMES》 Illegal accommodations increased last year: report",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306702",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/phpEO8Fgs.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
+    "published_at": "2026-01-11T20:17:10+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Lai touts Taiwan’s smart healthcare",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306704",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/phpmuCP9h.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
+    "published_at": "2026-01-11T20:17:10+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 Demonstrators call for enforcement of death penalty",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306705",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/php6HGKKI.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Marine Corps unit receives M4A1 rifles, source says",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306701",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/phpQMfKHf.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Kenting tourism sees second year of historic lows",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5306703",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/11/phpYesMgn.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:40",
-    "title": "美海軍人機協同作戰大躍進！F-35飛行員平板操控多架無人機",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5306739",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/12/5306739_1_1.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:06",
-    "title": "WTT冠軍賽》直落四擊潰南韓張禹珍 林昀儒睽違798天再捧冠軍盃",
-    "url": "https://sports.ltn.com.tw/news/breakingnews/5306738",
-    "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/01/12/5306738_1.jpg",
-    "published_at": "2026-01-11T19:11:37+00:00",
+    "published_at": "2026-01-11T20:17:10+00:00",
     "source": "LTN"
   }
 ]

@@ -10,19 +10,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
     />
-
     <!-- extra fonts -->
     <link
       href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap"
       rel="stylesheet"
     />
-
     <!-- styles -->
     <link rel="stylesheet" href="css/style.css" />
   </head>
 
   <body>
-    <!-- preloader -->
+    <!--preloader-->
     <div class="preloader">
       <img src="videos/Loading_icon.gif" alt="preloader" />
     </div>
@@ -36,10 +34,13 @@
           </button>
         </div>
 
-        <!-- links container -->
+        <!--links container -->
         <div class="links-container">
+          <!-- links -->
           <ul class="links">
-            <li><a href="#home" class="scroll-link">home</a></li>
+            <li>
+              <a href="#home" class="scroll-link">home</a>
+            </li>
             <li><a href="about.html" class="scroll-link">about</a></li>
             <li><a href="notes.html" class="scroll-link">code notes</a></li>
             <li><a href="videos.html" class="scroll-link">videos</a></li>
@@ -59,12 +60,20 @@
             </a>
           </li>
           <li>
-            <a href="https://www.youtube.com/channel/UCuxsgEw1ZFdXdkIkWLL-D3Q" target="_blank" rel="noopener">
+            <a
+              href="https://www.youtube.com/channel/UCuxsgEw1ZFdXdkIkWLL-D3Q"
+              target="_blank"
+              rel="noopener"
+            >
               <i class="fab fa-youtube"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/lovecat-annu-16224a22b/" target="_blank" rel="noopener">
+            <a
+              href="https://www.linkedin.com/in/lovecat-annu-16224a22b/"
+              target="_blank"
+              rel="noopener"
+            >
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
@@ -77,7 +86,7 @@
       </div>
     </nav>
 
-    <!-- header -->
+    <!--header-->
     <header id="home">
       <video class="video-container" muted autoplay loop playsinline>
         <source src="videos/business.mp4" type="video/mp4" />
@@ -85,7 +94,7 @@
 
       <h1>welcome to Annu's website</h1>
 
-      <!-- video switcher -->
+      <!--video switcher-->
       <button class="switch-btn" type="button">
         <span>play</span>
         <span>pause</span>
@@ -93,38 +102,119 @@
       </button>
     </header>
 
-    <!-- About -->
-    <section class="about-me" id="about-me">
-      <div class="title">
-        <h2>About Me</h2>
-      </div>
+    <!-- About Me -->
+    <section class="about-me" id="about">
+      <div class="section-center about-grid">
+        <!-- Left -->
+        <div class="about-main">
+          <header class="about-header">
+            <p class="about-kicker">Featured Project</p>
+            <h2 class="about-title">Discord 新聞發布機器人（Python）</h2>
+              <p class="about-subtitle">
+                我用 <strong>discord.py</strong> 做了一個新聞推送 Bot：定時抓取新聞、去重、整理成 Embed，
+                並支援 Slash 指令手動抓取與設定推送頻道。
+                <br />
+                <strong>目前穩定來源：LTN（自由時報 RSS + 文章內頁解析）</strong>；其他來源先保留為後續擴充。
+              </p>
 
-      <!-- 建議：文字 + 照片同層，方便左右排 -->
-      <div class="section-center about-content">
-        <div class="about-text">
-          <p>
-            Hello! I’m <strong>Annu(Gordon)</strong>, a graduate from the
-            <strong>Department of Information Management, National Taipei University of Business (NTUB)</strong>.
-          </p>
-          <p>
-            I’m passionate about the world of technology — from artificial intelligence and machine learning
-            to software development and data analysis. I believe that in this fast-changing digital era,
-            mastering information systems is the key to staying competitive.
-          </p>
-          <p>
-            I am currently focusing on the field of AI detection, shifting my interest from traditional algorithm research to more practical and impactful applications of artificial intelligence.
-            I’ve been exploring object detection technologies such as Ultralytics and the YOLO family, and I have a foundational understanding of how AI model training works — including data preprocessing,
-            image augmentation (like intentional blur or distortion to enhance robustness), and generating training labels through tools like LabelImg, which the model later uses for self-correction and iterative improvement.
-          </p>
-          <p>
-            My present goals are to enhance model accuracy, speed up training efficiency, and deepen my understanding of how techniques like Retrieval-Augmented Generation (RAG) can support intelligent systems.
-            I aim to strengthen my skills in building reliable, real-world AI detection solutions and move closer to becoming a professional capable of applying innovative AI technologies to solve practical problems.
+            <section class="news-section" id="news">
+              <div class="news-title">
+                <h3>Latest News</h3>
+                <p>自動更新（目前穩定來源：LTN）</p>
+              </div>
+
+              <div id="newsList" class="news-list" aria-live="polite"></div>
+
+              <div class="news-footer">
+                <a class="btn" href="https://news.ltn.com.tw/" target="_blank" rel="noopener">Source: LTN</a>
+              </div>
+            </section>
+          </header>
+        
+          <div class="about-cards">
+            <article class="about-card">
+              <h3>已完成功能（目前可用）</h3>
+              <ul class="about-list">
+                <li><strong>每小時自動推送</strong>：tasks.loop(hours=1)</li>
+                <li><strong>去重避免洗版</strong>：用 set 記錄 title-url</li>
+                <li><strong>Embed 美化</strong>：標題 + 連結 + timestamp + 縮圖</li>
+                <li><strong>可設定頻道</strong>：/set_news_channel</li>
+                <li><strong>手動抓新聞</strong>：/fetch_latest_news（目前以 LTN 為主）</li>
+              </ul>
+            </article>
+
+            <article class="about-card">
+              <h3>技術棧</h3>
+              <div class="about-tags">
+                <span class="tag">Python</span>
+                <span class="tag">discord.py</span>
+                <span class="tag">app_commands</span>
+                <span class="tag">tasks.loop</span>
+                <span class="tag">feedparser</span>
+                <span class="tag">requests</span>
+                <span class="tag">BeautifulSoup</span>
+                <span class="tag">dotenv</span>
+              </div>
+              <p class="about-note">
+                來源以 <code>NEWS_SOURCES</code> 模組化管理；頻道取得採用「快取優先 → fetch_channel fallback」，
+                提升穩定性。
+              </p>
+            </article>
+          </div>
+
+          <article class="about-flow">
+            <h3>LTN 抓取流程</h3>
+            <ol class="flow">
+              <li><span>1</span> 讀取 LTN RSS：<code>https://news.ltn.com.tw/rss/all.xml</code></li>
+              <li><span>2</span> 逐篇進入文章頁：抓報導封面圖 + 文章標題</li>
+              <li><span>3</span> 若無圖片則跳過（避免 Embed 空內容）</li>
+              <li><span>4</span> 標題裁切（shorten）＋ 產出標準化 dict</li>
+              <li><span>5</span> 由舊到新發送（reversed）＋ set 去重</li>
+            </ol>
+          </article>
+
+          <div class="about-mini">
+            <h3>指令一覽</h3>
+            <div class="mini-grid">
+              <div class="mini-item"><code>/fetch_latest_news</code><span>手動抓取（目前以 LTN 為主）</span></div>
+              <div class="mini-item"><code>/set_news_channel</code><span>設定 LTN 自動推送頻道</span></div>
+              <div class="mini-item"><code>/show_news_channels</code><span>查看目前頻道設定</span></div>
+              <div class="mini-item"><code>/news_help</code><span>顯示教學與可用指令</span></div>
+            </div>
+          </div>
+
+          <div class="about-actions">
+            <!-- 你把 # 改成 repo / demo 連結 -->
+            <a class="btn btn-primary" href="#" target="_blank" rel="noopener">View GitHub</a>
+            <a class="btn btn-ghost" href="about.html">Read More</a>
+          </div>
+
+          <p class="about-disclaimer">
+            備註：TVBS / ETtoday / Reddit 來源已先寫好解析雛形，但目前以 LTN 穩定版本為主，其他來源待後續調整與驗證。
           </p>
         </div>
 
-        <div class="about-photo">
-          <img src="pics/Me.jpg" alt="Annu profile photo" />
-        </div>
+      <!-- Right -->
+        <aside class="about-side">
+          <div class="about-photo">
+            <img src="pics/Me.jpg" alt="Annu profile photo" />
+          </div>
+
+          <div class="about-stats">
+            <div class="stat">
+              <p class="stat-num">Hourly</p>
+              <p class="stat-label">Auto Push</p>
+            </div>
+            <div class="stat">
+              <p class="stat-num">Embed</p>
+              <p class="stat-label">Formatted Message</p>
+            </div>
+            <div class="stat">
+              <p class="stat-num">Dedupe</p>
+              <p class="stat-label">No Spam</p>
+            </div>
+          </div>
+        </aside>
       </div>
     </section>
 
@@ -196,11 +286,14 @@
     </footer>
 
     <script>
-      document.getElementById("year").textContent = new Date().getFullYear();
+      // 自動更新年份
+      const yearSpan = document.getElementById("year");
+      if (yearSpan) yearSpan.textContent = new Date().getFullYear();
     </script>
 
     <!-- javascript -->
-    <script src="js/index.js"></script>
-    <script src="js/switch.js"></script>
+    <script src="scripts/js/index.js"></script>
+    <script src="scripts/js/switch.js"></script>
+    <script src="scripts/js/news.js"></script>
   </body>
 </html>

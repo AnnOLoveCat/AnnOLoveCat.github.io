@@ -26,7 +26,7 @@ jobs:
       - name: Build news.json
         run: |
           mkdir -p data
-          python scripts/build_news_json.py
+          python scripts/py/build_news_json.py
 
       - name: Commit & push if changed
         run: |

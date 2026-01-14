@@ -1,10 +1,26 @@
 [
   {
+    "time": "04:30",
+    "title": "伊朗電視台釋暗殺川普訊息 威脅「這次子彈不會飛偏」",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5310283",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-01-14T21:16:11+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:24",
+    "title": "路透：美國將在24小時內對伊朗發動軍事打擊",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5310280",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/15/5310280_1_1.jpg",
+    "published_at": "2026-01-14T21:16:11+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:30",
     "title": "和平獎得主艾巴迪：美應精準打擊伊朗領袖與革命衛隊",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5310279",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +28,7 @@
     "title": "法國數學教授涉間諜案 允中國團參觀敏感區遭起訴",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5310277",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +36,7 @@
     "title": "《TAIPEI TIMES》Tropical storm forming, cold air mass expected",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310214",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/php698hQP.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   },
   {
@@ -28,7 +44,7 @@
     "title": "《TAIPEI TIMES》Legislature’s impeachment hearings begin",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310224",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/phpn2HGpm.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   },
   {
@@ -36,7 +52,7 @@
     "title": "《TAIPEI TIMES》Taiwan passport rises three spots in global ranking",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310226",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/phpn2JxMg.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   },
   {
@@ -44,23 +60,7 @@
     "title": "《TAIPEI TIMES》Nuclear provides only 9％ of global electricity",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310215",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/phpXTNj7B.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Care policy to add 30,000 hospital beds: MOHW",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310223",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/phpmlpMeN.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Additional THSRC trains to run at Lunar New Year",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5310216",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/01/14/phpSVsNPg.jpg",
-    "published_at": "2026-01-14T20:15:47+00:00",
+    "published_at": "2026-01-14T21:16:11+00:00",
     "source": "LTN"
   }
 ]

@@ -103,7 +103,8 @@
     </header>
 
     <!-- About Me -->
-    <section class="about-me" id="about">
+    <!-- Project 1: News Captures -->
+    <section class="about-me" id="news-captures">
       <div class="section-center about-grid">
         <!-- Left -->
         <div class="about-main">
@@ -217,6 +218,112 @@
         </aside>
       </div>
     </section>
+
+    <!-- Project #2: Image_Classified -->
+    <section class="about-me" id="image-classified">
+      <div class="section-center about-grid">
+        <!-- Left -->
+        <div class="about-main">
+          <header class="about-header">
+            <p class="about-kicker">Featured Project</p>
+            <h2 class="about-title">AI Image Classifying（Streamlit × MobileNetV2）</h2>
+            <p class="about-subtitle">
+              我用 <strong>Streamlit</strong> 做了一個「影像分類」網頁 Demo：使用者上傳圖片後，
+              透過 <strong>Keras MobileNetV2（ImageNet 預訓練）</strong>推論，輸出
+              <strong>Top-3</strong> 類別與信心分數。
+              <br />
+              特色包含：<strong>完整影像前處理流程</strong>（RGB/Resize/Normalize）與
+              <strong>模型快取</strong>（避免每次重整重新載入模型）。
+            </p>
+          </header>
+
+          <div class="about-cards">
+            <article class="about-card">
+              <h3>已完成功能</h3>
+              <ul class="about-list">
+                <li><strong>圖片上傳</strong>：支援 JPG / PNG</li>
+                <li><strong>即時預覽</strong>：上傳後立即顯示圖片</li>
+                <li><strong>一鍵推論</strong>：按下按鈕才開始跑模型（避免浪費資源）</li>
+                <li><strong>Top-3 結果</strong>：顯示前三名分類 + 機率</li>
+                <li><strong>模型快取</strong>：<code>st.cache_resource</code> 提升重整速度</li>
+              </ul>
+            </article>
+
+            <article class="about-card">
+              <h3>技術棧</h3>
+              <div class="about-tags">
+                <span class="tag">Python</span>
+                <span class="tag">Streamlit</span>
+                <span class="tag">Keras</span>
+                <span class="tag">MobileNetV2</span>
+                <span class="tag">OpenCV</span>
+                <span class="tag">NumPy</span>
+                <span class="tag">PIL</span>
+              </div>
+              <p class="about-note">
+                前處理包含：<code>RGB</code> 轉換、<code>224×224</code> Resize、<code>preprocess_input</code>
+                正規化、<code>expand_dims</code> 增加 batch 維度；推論後用 <code>decode_predictions(top=3)</code>
+                轉成可讀標籤。
+              </p>
+            </article>
+          </div>
+
+          <article class="about-flow">
+            <h3>推論流程（對應程式邏輯）</h3>
+            <ol class="flow">
+              <li><span>1</span> 載入 MobileNetV2（ImageNet weights）</li>
+              <li><span>2</span> 讀取上傳圖片 → 強制轉成 RGB</li>
+              <li><span>3</span> Resize 到 224×224（模型輸入規格）</li>
+              <li><span>4</span> preprocess_input 正規化 + expand_dims</li>
+              <li><span>5</span> model.predict → decode_predictions 取 Top-3</li>
+              <li><span>6</span> 顯示 Label + Score（百分比）</li>
+            </ol>
+          </article>
+
+          <div class="about-actions">
+            <!-- 改成你的 GitHub repo -->
+            <a class="btn btn-primary" href="https://github.com/AnnOLoveCat/Image_Classified" target="_blank" rel="noopener">
+              View GitHub
+            </a>
+
+            <!-- 改成你部署後的 streamlit.app 網址 -->
+            <a class="btn btn-ghost" href="https://imageclassified.streamlit.app/" target="_blank" rel="noopener">
+              Live Demo
+            </a>
+          </div>
+
+          <p class="about-disclaimer">
+            備註：目前使用 ImageNet 預訓練模型做通用分類；後續可延伸為「自訂資料集 + transfer learning」
+            或改成針對特定場景（例如工業瑕疵、零件分類、商品分類）的專用模型。
+          </p>
+        </div>
+
+        <!-- Right -->
+        <aside class="about-side">
+          <div class="about-photo">
+            <!-- 你已替換圖檔：保持這個路徑即可 -->
+            <img src="pics/Image_Classified_Test_Results.png" alt="AI Image Classifying demo screenshot" />
+          </div>
+
+          <div class="about-stats">
+            <div class="stat">
+              <p class="stat-num">Top-3</p>
+              <p class="stat-label">Predictions</p>
+            </div>
+            <div class="stat">
+              <p class="stat-num">224×224</p>
+              <p class="stat-label">Preprocess</p>
+            </div>
+            <div class="stat">
+              <p class="stat-num">Cache</p>
+              <p class="stat-label">Fast Reload</p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+
 
     <!-- Footer -->
     <footer class="site-footer">

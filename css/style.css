@@ -11,13 +11,15 @@ Variables
 ===============
 */
 :root {
-  /* dark shades of primary color*/
+  /* dark shades of primary color */
   --clr-primary-1: hsl(205, 86%, 17%);
   --clr-primary-2: hsl(205, 77%, 27%);
   --clr-primary-3: hsl(205, 72%, 37%);
   --clr-primary-4: hsl(205, 63%, 48%);
+
   /* primary/main color */
   --clr-primary-5: hsl(205, 78%, 60%);
+
   /* lighter shades of primary color */
   --clr-primary-6: hsl(205, 89%, 70%);
   --clr-primary-7: hsl(205, 90%, 76%);
@@ -27,12 +29,11 @@ Variables
 
   --clr-gold: hsl(46, 76%, 55%);
 
-  /* darkest grey - used for headings */
+  /* greys */
   --clr-grey-1: hsl(209, 61%, 16%);
   --clr-grey-2: hsl(211, 39%, 23%);
   --clr-grey-3: hsl(209, 34%, 30%);
   --clr-grey-4: hsl(209, 28%, 39%);
-  /* grey used for paragraphs */
   --clr-grey-5: hsl(210, 22%, 49%);
   --clr-grey-6: hsl(209, 23%, 60%);
   --clr-grey-7: hsl(211, 27%, 70%);
@@ -41,12 +42,13 @@ Variables
   --clr-grey-10: hsl(210, 36%, 96%);
 
   --clr-white: #fff;
+  --clr-black: #222;
+  --clr-grey-light: hsl(0, 0%, 26%);
+
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
-  --clr-black: #222;
-  --clr-grey-light: hsl(0, 0%, 26%);
 
   --ff-primary: "Roboto", sans-serif;
   --ff-secondary: "Open Sans", sans-serif;
@@ -70,6 +72,7 @@ Global Styles
 html {
   scroll-behavior: smooth;
 }
+
 *,
 ::after,
 ::before {
@@ -77,6 +80,7 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
   font-family: var(--ff-secondary);
   background: var(--clr-grey-10);
@@ -84,15 +88,19 @@ body {
   line-height: 1.5;
   font-size: 0.875rem;
 }
+
 ul {
   list-style-type: none;
 }
+
 a {
   text-decoration: none;
 }
+
 img:not(.logo) {
   width: 100%;
 }
+
 img {
   display: block;
 }
@@ -107,6 +115,7 @@ h4 {
   margin-bottom: 0.75rem;
   font-family: var(--ff-primary);
 }
+
 h1 {
   font-size: 3rem;
 }
@@ -119,10 +128,12 @@ h3 {
 h4 {
   font-size: 0.875rem;
 }
+
 p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-5);
 }
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
@@ -147,7 +158,7 @@ p {
   }
 }
 
-/* global classes */
+/* global button */
 .btn {
   text-transform: uppercase;
   background: transparent;
@@ -162,12 +173,13 @@ p {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   border-radius: var(--radius);
 }
+
 .btn:hover {
   color: var(--clr-white);
   background: var(--clr-black);
 }
 
-/* section */
+/* section helpers */
 .section {
   padding: 5rem 0;
 }
@@ -177,6 +189,7 @@ p {
   margin: 0 auto;
   max-width: 1170px;
 }
+
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
@@ -198,12 +211,14 @@ nav {
   background: var(--clr-black);
   box-shadow: var(--light-shadow);
 }
+
 .nav-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 1rem;
 }
+
 .nav-toggle {
   font-size: 1.5rem;
   color: var(--clr-primary-5);
@@ -212,15 +227,25 @@ nav {
   transition: var(--transition);
   cursor: pointer;
 }
+
 .nav-toggle:hover {
   color: var(--clr-white);
 }
+
 .logo {
   height: 50px;
 }
-.show-links {
-  height: 200px;
+
+.links {
+  height: 0;
+  overflow: hidden;
+  transition: var(--transition);
 }
+
+.show-links {
+  height: 12.5rem;
+}
+
 .links a {
   color: var(--clr-white);
   font-size: 1.1rem;
@@ -231,22 +256,17 @@ nav {
   padding: 0.75rem 0;
   transition: var(--transition);
 }
+
 .links a:hover {
   color: var(--clr-red-light);
   background: var(--clr-grey-light);
   padding-left: 1.5rem;
 }
+
 .social-icons {
   display: none;
 }
-.links {
-  height: 0;
-  overflow: hidden;
-  transition: var(--transition);
-}
-.show-links {
-  height: 12.5rem;
-}
+
 @media screen and (min-width: 800px) {
   .nav-center {
     max-width: 1170px;
@@ -256,35 +276,44 @@ nav {
     justify-content: space-between;
     padding: 1rem;
   }
+
   .nav-header {
     padding: 0;
   }
+
   .nav-toggle {
     display: none;
   }
+
   .links-container {
     height: auto !important;
   }
+
   .links {
     height: auto;
     display: flex;
   }
+
   .links a {
     padding: 0;
     margin: 0 1rem;
   }
+
   .links a:hover {
     padding: 0;
     background: transparent;
   }
+
   .social-icons {
     display: flex;
   }
+
   .social-icons a {
     margin: 0 0.5rem;
     color: var(--clr-white);
     transition: var(--transition);
   }
+
   .social-icons a:hover {
     color: var(--clr-primary-7);
   }
@@ -309,20 +338,22 @@ Video (Header Hero)
   z-index: 999;
   transition: var(--transition);
 }
+
 .hide-preloader {
   z-index: -999;
   visibility: hidden;
 }
 
-header {
+/* ✅ 只鎖定首頁 Hero header，避免影響 Project #1/#2 裡面的 <header class="about-header"> */
+header#home {
   min-height: 100vh;
   position: relative;
   display: grid;
   place-items: center;
 }
 
-/* Video Framework */
-.video-container {
+/* video layer (Hero only) */
+#home .video-container {
   position: absolute;
   top: 0;
   left: 0;
@@ -332,7 +363,7 @@ header {
   z-index: -2;
 }
 
-header h1 {
+header#home h1 {
   color: var(--clr-white);
   text-align: center;
   padding: 0 1rem;
@@ -342,43 +373,43 @@ header h1 {
 /* switch button */
 /* ⚠️ 這段你說不要動：完全保留原樣 */
 .switch-btn {
-    position: absolute;
-    bottom: 7%;
-    left: 7%;
-    width: 7rem;
-    height: 2rem;
-    display: flex;
-    border-radius: var(--radius);
-    align-items: center;
-    justify-content: space-around;
-    border: none;
-    transition: var(--transition);
-  }
-  .switch-btn span {
-    display: inline-block;
-    font-size: 0.85rem;
-    cursor: pointer;
-    text-transform: capitalize;
-    color: var(--clr-primary-5);
-  }
-  .switch {
-    position: absolute;
-    width: 50%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background: var(--clr-primary-5);
-    border-radius: var(--radius);
-    margin: 0;
-    display: block;
-    transition: var(--transition);
-  }
-  .slide .switch {
-    left: 50%;
-  }
+  position: absolute;
+  bottom: 7%;
+  left: 7%;
+  width: 7rem;
+  height: 2rem;
+  display: flex;
+  border-radius: var(--radius);
+  align-items: center;
+  justify-content: space-around;
+  border: none;
+  transition: var(--transition);
+}
+.switch-btn span {
+  display: inline-block;
+  font-size: 0.85rem;
+  cursor: pointer;
+  text-transform: capitalize;
+  color: var(--clr-primary-5);
+}
+.switch {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: var(--clr-primary-5);
+  border-radius: var(--radius);
+  margin: 0;
+  display: block;
+  transition: var(--transition);
+}
+.slide .switch {
+  left: 50%;
+}
 
-/* header after */
-header::after {
+/* header overlay (Hero only) */
+header#home::after {
   content: "";
   position: absolute;
   top: 0;
@@ -391,10 +422,9 @@ header::after {
 
 /*
 =============== 
-About Me
+About / Projects (Base)
 ===============
 */
-
 .about-me {
   padding: 5rem 0;
   background: var(--clr-grey-10);
@@ -577,13 +607,12 @@ About Me
   margin-top: 1.25rem;
 }
 
-/* buttons variants (won't break your existing .btn) */
+/* button variants (base) */
 .btn-primary {
   background: var(--clr-primary-5);
   color: var(--clr-white);
   border-color: transparent;
 }
-
 .btn-primary:hover {
   background: var(--clr-primary-2);
   color: var(--clr-white);
@@ -594,7 +623,6 @@ About Me
   color: var(--clr-black);
   border: 2px solid var(--clr-black);
 }
-
 .btn-ghost:hover {
   background: var(--clr-black);
   color: var(--clr-white);
@@ -642,22 +670,25 @@ About Me
   font-size: 0.95rem;
 }
 
-/* =================
-   News (Discord-like cards)
-================= */
-.about-header .news-section{
+/*
+=============== 
+News Cards (Discord-like) - used inside Project #1
+===============
+*/
+.about-header .news-section {
   padding: 1.25rem 0 0;
   background: transparent;
 }
 
-.about-header .news-title h3{
+.about-header .news-title h3 {
   margin-bottom: 0.25rem;
 }
 
-.about-header .news-footer{
+.about-header .news-footer {
   margin-top: 0.75rem;
 }
 
+/* standalone news section (if used elsewhere) */
 .news-section {
   padding: 5rem 0;
   background: var(--clr-grey-10);
@@ -683,7 +714,7 @@ About Me
 .news-card {
   position: relative;
   background: #141619;
-  border: 1px solid rgba(255,255,255,0.08);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 14px;
   overflow: hidden;
   box-shadow: var(--dark-shadow);
@@ -722,7 +753,7 @@ About Me
   font-weight: 800;
   font-size: 1.2rem;
   letter-spacing: 0.02rem;
-  color: #33d2ff; /* Discord 那種亮藍感 */
+  color: #33d2ff;
 }
 
 .news-headline {
@@ -734,7 +765,7 @@ About Me
 
 .news-posted {
   font-size: 0.9rem;
-  color: rgba(255,255,255,0.65);
+  color: rgba(255, 255, 255, 0.65);
 }
 
 .news-thumb {
@@ -743,7 +774,7 @@ About Me
   border-radius: 12px;
   overflow: hidden;
   justify-self: end;
-  background: rgba(255,255,255,0.06);
+  background: rgba(255, 255, 255, 0.06);
 }
 
 @media (max-width: 640px) {
@@ -770,6 +801,139 @@ About Me
 }
 
 /*
+=========================
+Project #2: Image_Classified (Scoped Discord dark + tighter spacing)
+=========================
+*/
+
+/* ✅ 只縮 Project #2 上下留白，不影響其它 about-me */
+#image-classified.about-me {
+  padding: 3.25rem 0;
+}
+@media (min-width: 800px) {
+  #image-classified.about-me {
+    padding: 3.75rem 0;
+  }
+}
+
+#image-classified {
+  background: radial-gradient(1200px 600px at 15% 10%, rgba(51, 210, 255, 0.08), transparent 55%),
+    radial-gradient(900px 500px at 80% 20%, rgba(88, 101, 242, 0.08), transparent 55%),
+    #0f1115;
+}
+
+/* ✅ Project #2 header 間距縮小（你最在意的 kicker/title/subtitle 空格） */
+#image-classified .about-header {
+  margin: 0 0 0.75rem 0; /* header 與下方 cards 距離 */
+}
+
+#image-classified .about-header .about-kicker {
+  margin: 0 0 0.2rem 0; /* 比 0.5rem 更緊 */
+  letter-spacing: 0.12rem;
+  color: #33d2ff;
+  opacity: 0.95;
+}
+
+#image-classified .about-header .about-title {
+  margin: 0 0 0.35rem 0; /* 比 0.75rem 更緊 */
+  color: rgba(255, 255, 255, 0.92);
+}
+
+#image-classified .about-header .about-subtitle {
+  margin: 0; /* 清掉 p 預設 margin-bottom:1.25rem */
+  line-height: 1.55;
+  max-width: 75ch;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+/* general text colors inside #image-classified */
+#image-classified p,
+#image-classified .about-list li,
+#image-classified .mini-item span,
+#image-classified .about-note,
+#image-classified .about-disclaimer {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+#image-classified h3 {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+#image-classified .about-card,
+#image-classified .about-flow,
+#image-classified .stat,
+#image-classified .mini-item {
+  background: #141619;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+}
+
+#image-classified .about-photo img {
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+}
+
+#image-classified .tag {
+  background: rgba(51, 210, 255, 0.1);
+  color: #7fe7ff;
+  border: 1px solid rgba(51, 210, 255, 0.18);
+}
+
+#image-classified .about-flow code,
+#image-classified .about-note code {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+#image-classified .flow li span {
+  background: #33d2ff;
+  color: #0f1115;
+}
+
+#image-classified .stat-num {
+  color: rgba(255, 255, 255, 0.92);
+  letter-spacing: 0.02rem;
+}
+
+#image-classified .stat-label {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+/* scoped buttons: keep global .btn intact */
+#image-classified .about-actions .btn {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35);
+}
+
+#image-classified .about-actions .btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.95);
+}
+
+#image-classified .about-actions .btn-primary {
+  background: #33d2ff;
+  color: #0f1115;
+  border-color: transparent;
+}
+
+#image-classified .about-actions .btn-primary:hover {
+  background: #7fe7ff;
+  color: #0f1115;
+}
+
+#image-classified .about-actions .btn-ghost {
+  background: transparent;
+  border: 1px solid rgba(51, 210, 255, 0.35);
+  color: #7fe7ff;
+}
+
+#image-classified .about-actions .btn-ghost:hover {
+  background: rgba(51, 210, 255, 0.12);
+  color: #9df0ff;
+}
+
+/*
 =============== 
 Questions
 =============== 
@@ -778,6 +942,7 @@ Questions
   margin-top: 15vh;
   margin-bottom: 4rem;
 }
+
 .title h2 {
   color: var(--clr-gold);
   font-family: "Aharoni Bold";
@@ -796,6 +961,7 @@ Questions
   padding: 1.5rem 1.5rem 0 1.5rem;
   margin-bottom: 2rem;
 }
+
 .question-title {
   display: flex;
   justify-content: space-between;
@@ -809,6 +975,7 @@ Questions
   letter-spacing: var(--spacing);
   color: var(--clr-grey-1);
 }
+
 .question-btn {
   font-size: 1.5rem;
   background: transparent;
@@ -817,29 +984,37 @@ Questions
   color: var(--clr-gold);
   transition: var(--transition);
 }
+
 .question-btn:hover {
   transform: rotate(90deg);
 }
+
 .question-text {
   padding: 1rem 0 1.5rem 0;
   border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
+
 .question-text p {
   margin-bottom: 0;
 }
+
 /* hide text */
 .question-text {
   display: none;
 }
+
 .show-text .question-text {
   display: block;
 }
+
 .minus-icon {
   display: none;
 }
+
 .show-text .minus-icon {
   display: inline;
 }
+
 .show-text .plus-icon {
   display: none;
 }

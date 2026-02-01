@@ -135,6 +135,12 @@ p {
 }
 
 @media screen and (min-width: 800px) {
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1;
+  }
   h1 {
     font-size: 4rem;
   }
@@ -150,13 +156,27 @@ p {
   body {
     font-size: 1.1rem;
   }
-  h1,
-  h2,
-  h3,
-  h4 {
-    line-height: 1;
-  }
 }
+
+#home {
+  min-height: 100vh;
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+
+#home::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: -1;
+}
+
+
 
 /* global button */
 .btn {
@@ -344,7 +364,6 @@ Video (Header Hero)
   visibility: hidden;
 }
 
-/* ✅ 只鎖定首頁 Hero header，避免影響 Project #1/#2 裡面的 <header class="about-header"> */
 header#home {
   min-height: 100vh;
   position: relative;
@@ -370,8 +389,6 @@ header#home h1 {
   font-size: clamp(2rem, 4vw, 3.5rem);
 }
 
-/* switch button */
-/* ⚠️ 這段你說不要動：完全保留原樣 */
 .switch-btn {
   position: absolute;
   bottom: 7%;
@@ -408,7 +425,6 @@ header#home h1 {
   left: 50%;
 }
 
-/* header overlay (Hero only) */
 header#home::after {
   content: "";
   position: absolute;
@@ -806,46 +822,36 @@ Project #2: Image_Classified (Scoped Discord dark + tighter spacing)
 =========================
 */
 
-/* ✅ 只縮 Project #2 上下留白，不影響其它 about-me */
-#image-classified.about-me {
-  padding: 3.25rem 0;
-}
-@media (min-width: 800px) {
-  #image-classified.about-me {
-    padding: 3.75rem 0;
-  }
-}
-
 #image-classified {
   background: radial-gradient(1200px 600px at 15% 10%, rgba(51, 210, 255, 0.08), transparent 55%),
     radial-gradient(900px 500px at 80% 20%, rgba(88, 101, 242, 0.08), transparent 55%),
     #0f1115;
 }
 
-/* ✅ Project #2 header 間距縮小（你最在意的 kicker/title/subtitle 空格） */
-#image-classified .about-header {
-  margin: 0 0 0.75rem 0; /* header 與下方 cards 距離 */
+#image-classified.about-me {
+  padding: 2.75rem 0;
 }
 
-#image-classified .about-header .about-kicker {
-  margin: 0 0 0.2rem 0; /* 比 0.5rem 更緊 */
-  letter-spacing: 0.12rem;
-  color: #33d2ff;
-  opacity: 0.95;
+@media (min-width: 800px) {
+  #image-classified.about-me {
+    padding: 5rem 0;
+  }
 }
 
-#image-classified .about-header .about-title {
-  margin: 0 0 0.35rem 0; /* 比 0.75rem 更緊 */
-  color: rgba(255, 255, 255, 0.92);
+#image-classified .about-header{
+  margin-bottom: 0.6rem;
 }
-
-#image-classified .about-header .about-subtitle {
-  margin: 0; /* 清掉 p 預設 margin-bottom:1.25rem */
+#image-classified .about-kicker{
+  margin: 0 0 0.2rem;
+}
+#image-classified .about-title{
+  margin: 0 0 0.35rem;
+}
+#image-classified .about-subtitle{
+  margin: 0;
   line-height: 1.55;
   max-width: 75ch;
-  color: rgba(255, 255, 255, 0.72);
 }
-
 /* general text colors inside #image-classified */
 #image-classified p,
 #image-classified .about-list li,

@@ -1,66 +1,66 @@
 [
   {
+    "time": "00:42",
+    "title": "輻射冷卻效應急凍 3縣市清晨恐跌破10度",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5342063",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/13/phpWZszRm.png",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:25",
+    "title": "高雄春節主打3水果 攜手連鎖通路全台熱銷",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5342062",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/13/5342062_1_1.jpg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:24",
+    "title": "高雄春節出遊高峰估初三、初四 高捷班距最短4分鐘",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5342061",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/13/5342061_3_1.jpg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:20",
+    "title": "一次看夠夠！鹿港春節花燈璀璨 和美營造浪漫街燈",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5342057",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/13/5342057_1_1.jpg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "民間土方可運棄台北港了！建管處：「這類建案」都可申報",
+    "url": "https://estate.ltn.com.tw/article/26979",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/02/12/260212-26979-1-FDMtY.jpeg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "23:57",
+    "title": "健康網》過年情緒快崩盤 身心科醫曝臨床版「生存指南」",
+    "url": "https://health.ltn.com.tw/article/breakingnews/5341525",
+    "image": "https://img.ltn.com.tw/Upload/health/page/800/2026/02/12/phpet6F8B.jpg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "23:48",
+    "title": "美明尼蘇達州移民執法行動將結束 邊境沙皇曝川普同意了",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5342046",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/12/phpfW9lNt.jpg",
+    "published_at": "2026-02-12T16:51:32+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "23:39",
     "title": "公股金融人事異動 政院正式核定",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5342050",
     "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/02/12/5342050_1_1.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:38",
-    "title": "健康網》 年長者「那邊」凸腫怎麼了？ 醫解析疝氣3原因",
-    "url": "https://health.ltn.com.tw/article/breakingnews/5338753",
-    "image": "https://img.ltn.com.tw/Upload/health/page/800/2026/02/10/phpXKKbSc.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:36",
-    "title": "慰問共軍駐京部隊 中央軍委副主席張升民：保持部隊安全穩定",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5342043",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/12/php6CnuGU.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:29",
-    "title": "印度立百病毒第1例死亡 護理師感染過世",
-    "url": "https://health.ltn.com.tw/article/breakingnews/5342042",
-    "image": "https://img.ltn.com.tw/Upload/health/page/800/2026/02/12/phpIdLjWe.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:26",
-    "title": "健康網》疲累頭暈、氣色差恐缺鐵 營養師揭飲食補鐵重點",
-    "url": "https://health.ltn.com.tw/article/breakingnews/5339232",
-    "image": "https://img.ltn.com.tw/Upload/health/page/800/2026/02/10/phpeioq2K.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:24",
-    "title": "台南鹿耳門聖母廟高空煙火 花火迎春2/28日登場",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5341998",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/12/5341998_1_1.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:24",
-    "title": "賴清德不喜歡的立委都起訴？羅智強：不分藍綠、柯建銘是眼中釘",
-    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5342044",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/12/5342044_1_1.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:19",
-    "title": "國會大亂鬥藍委被起訴 王鴻薇：民進黨為阻止參選2028",
-    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5342039",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/12/5342039_1_1.jpg",
-    "published_at": "2026-02-12T15:44:32+00:00",
+    "published_at": "2026-02-12T16:51:32+00:00",
     "source": "LTN"
   }
 ]

@@ -1,10 +1,34 @@
 [
   {
+    "time": "05:21",
+    "title": "路透：美施壓敘利亞禁用中國電信技術 稱威脅國安",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5352932",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-02-26T21:27:01+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "05:00",
+    "title": "市場關注美國伊朗談判 國際油價震盪收低",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5352929",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-02-26T21:27:01+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:54",
+    "title": "阿富汗軍方攻擊巴基斯坦 宣稱擊斃士兵、奪下哨所",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5352928",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-02-26T21:27:01+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:54",
     "title": "美國伊朗最新核談判結束 阿曼外長稱取得重大進展",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5352922",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-02-26T20:29:29+00:00",
+    "published_at": "2026-02-26T21:27:01+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +36,7 @@
     "title": "歐盟與南方共同市場貿易協議 烏拉圭阿根廷相繼批准",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5352921",
     "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-02-26T20:29:29+00:00",
+    "published_at": "2026-02-26T21:27:01+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +44,7 @@
     "title": "希拉蕊出席艾普斯坦案聽證會 點名川普應出面作證",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5352920",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-02-26T20:29:29+00:00",
+    "published_at": "2026-02-26T21:27:01+00:00",
     "source": "LTN"
   },
   {
@@ -28,7 +52,7 @@
     "title": "台積電美國廠去年獲利161.4億元 熊本廠虧損近百億元",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5352912",
     "image": "https://img.ltn.com.tw/Upload/business/page/800/2026/02/27/phpAPyeoO.jpg",
-    "published_at": "2026-02-26T20:29:29+00:00",
+    "published_at": "2026-02-26T21:27:01+00:00",
     "source": "LTN"
   },
   {
@@ -36,31 +60,7 @@
     "title": "《TAIPEI TIMES》 Lai honors baseball home run legend Sadaharu Oh",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5352880",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/26/phpStRLzu.jpg",
-    "published_at": "2026-02-26T20:29:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Computer and IT service sector posts record-high revenue",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5352886",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/26/phpzWabYV.jpg",
-    "published_at": "2026-02-26T20:29:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Premier Cho issues caution over Li Zhenxiu",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5352877",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/26/phpmH2akM.jpg",
-    "published_at": "2026-02-26T20:29:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Councilors blast lantern festival’s Shanghai display",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5352883",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/02/26/phpjYt87N.jpg",
-    "published_at": "2026-02-26T20:29:29+00:00",
+    "published_at": "2026-02-26T21:27:01+00:00",
     "source": "LTN"
   }
 ]

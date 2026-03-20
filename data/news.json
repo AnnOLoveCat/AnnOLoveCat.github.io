@@ -1,10 +1,42 @@
 [
   {
+    "time": null,
+    "title": "3/16~3/20 市場話題",
+    "url": "https://estate.ltn.com.tw/article/27266",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/03/21/260321-27266-1-yTjgB.jpg",
+    "published_at": "2026-03-20T20:25:03+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【高雄】擁快速路網便利交通與商圈發達 鳳頂生活圈發展加速",
+    "url": "https://estate.ltn.com.tw/article/27265",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/03/21/260321-27265-1-hJRNM.jpg",
+    "published_at": "2026-03-20T20:25:03+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "政策微鬆綁與戰事陰霾 今年329檔量縮3成 北中南8大百億案領軍求突破",
+    "url": "https://estate.ltn.com.tw/article/27264",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/03/21/260321-27264-1-tVSdh.jpg",
+    "published_at": "2026-03-20T20:25:03+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:12",
+    "title": "保護航道 英國批准美軍使用其基地攻擊伊朗飛彈陣地",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5377508",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-03-20T20:25:03+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》 Trump, Takaichi commit to peace in Taiwan Strait",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377454",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/phpoEfIJy.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
+    "published_at": "2026-03-20T20:25:03+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "《TAIPEI TIMES》 Orchid show to generate exports worth NT$10bn",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377464",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/php5Y5EWs.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
+    "published_at": "2026-03-20T20:25:03+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Taiwan pulls out of WTO event",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377456",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/phpSlJrGf.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
+    "published_at": "2026-03-20T20:25:03+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 Two submarines set to test system upgrades next year",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377460",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/php8AcRmO.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Export orders increase 23.8 percent",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377465",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/phplCTeyd.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Military planning to buy hundreds of robot dogs",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377458",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/phpkPgefs.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Smart City Summit and Expo opens in Kaohsiung",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5377462",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/03/20/phpMAJkyX.jpg",
-    "published_at": "2026-03-20T19:33:25+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:45",
-    "title": "兩棲攻擊艦拳師號領軍出動 美增派數千部隊趕赴中東",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5377501",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-03-20T19:33:25+00:00",
+    "published_at": "2026-03-20T20:25:03+00:00",
     "source": "LTN"
   }
 ]

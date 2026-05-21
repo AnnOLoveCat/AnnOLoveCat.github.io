@@ -1,10 +1,42 @@
 [
   {
+    "time": "05:12",
+    "title": "油價回落 美股翻紅",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5445427",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-05-21T21:22:54+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:47",
+    "title": "",
+    "url": "https://news.ltn.com.tw/news/art/breakingnews/5445425",
+    "image": "https://img.ltn.com.tw/Upload/art/page/800/2026/05/22/5445425_1.jpg",
+    "published_at": "2026-05-21T21:22:54+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:30",
+    "title": "美伊協議前景不明 國際油價震盪收低",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5445424",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-05-21T21:22:54+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:00",
+    "title": "川普要伊朗交出濃縮鈾庫存 反對荷莫茲海峽收通行費",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5445421",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-05-21T21:22:54+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:36",
     "title": "川普延後簽署AI行政命令 美中競爭與監管取捨浮現",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5445420",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-05-21T19:45:37+00:00",
+    "published_at": "2026-05-21T21:22:54+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "路透：美議員示警中資介入阿根廷合約標案 憂影響國安",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5445418",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-05-21T19:45:37+00:00",
+    "published_at": "2026-05-21T21:22:54+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Ministry outlines plans for national science academy",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445363",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpYbh0mz.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
+    "published_at": "2026-05-21T21:22:54+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 Prosecutors seek to detain trio over AI chip smuggling",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445365",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpVpTjlD.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Executive Yuan announces new AI committee",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445362",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpmKgNz7.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Thirty-five clinics breach privacy laws",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445366",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpAKxBOV.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Taiwan to have 121 days off next year, agency says",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445364",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpUl6Qx6.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Taiwan eyes 100,000 drones a month",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5445359",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/05/21/phpiFYJ53.jpg",
-    "published_at": "2026-05-21T19:45:37+00:00",
+    "published_at": "2026-05-21T21:22:54+00:00",
     "source": "LTN"
   }
 ]

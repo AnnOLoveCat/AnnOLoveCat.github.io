@@ -1,10 +1,50 @@
 [
   {
+    "time": "05:00",
+    "title": "科技股漲多後賣壓湧現 美股重挫",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5462534",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-06-05T21:19:28+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【台北】三鶯線通車倒數 雙北房價凹陷區 鳳鳴重劃區新案上5字頭",
+    "url": "https://estate.ltn.com.tw/article/28064",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/05/260605-28064-1-vAPsm.jpg",
+    "published_at": "2026-06-05T21:19:28+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "2026年房市買氣指標出爐!新案交易榜揭曉 新北8案霸榜成最大贏家",
+    "url": "https://estate.ltn.com.tw/article/28066",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/05/260605-28066-1-naP6F.jpg",
+    "published_at": "2026-06-05T21:19:28+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【高雄】 學區、公園、交通與商圈加持 美術東四路生活圈發展前景看俏",
+    "url": "https://estate.ltn.com.tw/article/28070",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/06/260606-28070-1-KDhJZ.jpg",
+    "published_at": "2026-06-05T21:19:28+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "因應小基地開發潮流 改良式機械車位成規劃新趨勢 選購重視機能與實用性",
+    "url": "https://estate.ltn.com.tw/article/28069",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/06/260606-28069-1-y8lxk.jpg",
+    "published_at": "2026-06-05T21:19:28+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:36",
     "title": "普丁排除近期會晤澤倫斯基 強調俄軍持續推進戰事",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5462531",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-06-05T19:45:04+00:00",
+    "published_at": "2026-06-05T21:19:28+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Taiwan to produce more than 1,200 new missiles",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462468",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpWWuWDJ.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
+    "published_at": "2026-06-05T21:19:28+00:00",
     "source": "LTN"
   },
   {
@@ -20,47 +60,7 @@
     "title": "《TAIPEI TIMES》 Legislature condemns China’s obstruction",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462466",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpaSm7W5.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 CGA intercepts Chinese boat near Pratas",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462464",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpD51QI2.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Taiwan, Pacific allies celebrate ties at cultural gala",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462469",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpyKSdgM.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 11th Railroad Bento Festival opens at Taipei Main Station",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462471",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpOTb1Vm.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Man, 73, found guilty of murder of three women",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462470",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/phpyeaNm5.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 President outlines national tech plans",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5462463",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/05/php6w50iy.jpg",
-    "published_at": "2026-06-05T19:45:04+00:00",
+    "published_at": "2026-06-05T21:19:28+00:00",
     "source": "LTN"
   }
 ]

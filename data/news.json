@@ -1,10 +1,58 @@
 [
   {
+    "time": null,
+    "title": "【台北】中正國中生活圈房價抗跌關鍵曝光 明星學區撐起北市保值帶",
+    "url": "https://estate.ltn.com.tw/article/28220",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/19/260619-28220-1-nCOsE.jpg",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "讓利潮擴大？建商進入長期抗戰 四大抗戰策略浮現",
+    "url": "https://estate.ltn.com.tw/article/28218",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/19/260619-28218-4-JT5j7.jpg",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:30",
+    "title": "黎巴嫩要求全面停火再談和平 美推動以黎新一輪談判",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5477953",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【台中】單元二站穩台中高價住宅版圖 低密度開發吸引換屋與高資產客層",
+    "url": "https://estate.ltn.com.tw/article/28221",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/19/260619-28221-7-QRj2G.jpg",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【高雄】串連河堤社區與漢神巨蛋 文藻大學生活圈景觀輕豪宅潛力足",
+    "url": "https://estate.ltn.com.tw/article/28223",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/20/260620-28223-1-XQl5r.jpg",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "軌道場站結合新百貨賣場 兼具交通與消費 軌道百貨概念宅看俏",
+    "url": "https://estate.ltn.com.tw/article/28222",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/06/20/260620-28222-1-xpnwM.jpg",
+    "published_at": "2026-06-19T21:02:55+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》 Army to deploy drone battalion in Penghu County: source",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477919",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/phpNC5QhX.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
+    "published_at": "2026-06-19T21:02:55+00:00",
     "source": "LTN"
   },
   {
@@ -12,55 +60,7 @@
     "title": "《TAIPEI TIMES》 Taiwan holding off PRC at sea: officials",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477913",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/phpCeuC3f.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 CGA drives away Chinese research vessel",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477918",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/phpMP6fMn.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 FDA mulls weight loss drug controls",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477921",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/php6XY4Zu.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Yonaguni Island viewing point opens in Suao",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477922",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/phpJJ7opV.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Combat readiness drills to start next week",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5477914",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/19/phpQgSWQp.jpg",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:36",
-    "title": "以黎停火協議難落實 黎巴嫩47死97傷、以軍4人喪生",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5477949",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-06-19T19:29:24+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "01:21",
-    "title": "美伊會談喊卡 歐股收跌",
-    "url": "https://ec.ltn.com.tw/article/breakingnews/5477942",
-    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-06-19T19:29:24+00:00",
+    "published_at": "2026-06-19T21:02:55+00:00",
     "source": "LTN"
   }
 ]

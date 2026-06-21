@@ -1,10 +1,50 @@
 [
   {
+    "time": "05:00",
+    "title": "卡達拉斯拉凡工業區工廠爆炸 未傳傷亡或洩漏",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5479497",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-21T21:07:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:36",
+    "title": "以色列總理宣示續駐守黎南 真主黨要求侵略者離開",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5479495",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-21T21:07:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:12",
+    "title": "川普：若有必要將拿下荷莫茲 徵收20%通行費",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5479493",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-21T21:07:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:54",
+    "title": "世足》「上屆我還在教室看比賽」亞馬爾初先發就進球直呼美夢成真",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5479491",
+    "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/06/22/php8zxiw5.jpg",
+    "published_at": "2026-06-21T21:07:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:54",
+    "title": "耶馬傷癒登場即破門 西班牙4比0大勝沙烏地阿拉伯",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5479492",
+    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
+    "published_at": "2026-06-21T21:07:26+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:04",
     "title": "世足》隱形人不再隱形！西班牙前鋒歐亞薩寶揚眉吐氣寫60年紀錄",
     "url": "https://sports.ltn.com.tw/news/breakingnews/5479488",
     "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/06/22/phpkmjPMD.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
+    "published_at": "2026-06-21T21:07:26+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Official criticizes KMT for attending Fuxi memorial",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479432",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/phpWmb91u.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
+    "published_at": "2026-06-21T21:07:26+00:00",
     "source": "LTN"
   },
   {
@@ -20,47 +60,7 @@
     "title": "《TAIPEI TIMES》 First batch of SkyGuardian drones arrives in Taiwan",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479431",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/php8AT67o.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Investments to China decrease further",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479430",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/php0kwmLb.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Doctors warn of injury as World Cup energy spreads",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479448",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/phpYwpSTj.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Spy case involves combat-capable unit leaks: source",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479438",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/phpaCgcry.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Detention sought for man in cheerleader attack",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5479446",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/21/php04mbdm.jpg",
-    "published_at": "2026-06-21T19:20:26+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:45",
-    "title": "馬來西亞陳詩聖盃籃賽 政大雄鷹海外出征奪冠",
-    "url": "https://sports.ltn.com.tw/news/breakingnews/5479487",
-    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
-    "published_at": "2026-06-21T19:20:26+00:00",
+    "published_at": "2026-06-21T21:07:26+00:00",
     "source": "LTN"
   }
 ]

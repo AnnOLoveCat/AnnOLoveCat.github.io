@@ -1,10 +1,50 @@
 [
   {
+    "time": "04:45",
+    "title": "油輪公開駛入荷莫茲海峽 國際油價回落",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5481832",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-06-23T21:26:40+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:12",
+    "title": "路透：SpaceX發行5檔債券 籌250億美元推AI計畫",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5481829",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-06-23T21:26:40+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:40",
+    "title": "世足》C羅霸氣喊「我回來了！」 梅開二度寫一堆超狂紀錄",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5481825",
+    "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/06/24/phpc4o0JY.jpg",
+    "published_at": "2026-06-23T21:26:40+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:12",
+    "title": "本田圭佑再出神預測 看好日本世界盃晉級率破99%",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5481822",
+    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
+    "published_at": "2026-06-23T21:26:40+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:11",
+    "title": "世足》質疑退散！C羅梅開二度寫空前紀錄 葡萄牙痛宰烏茲別克",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5481821",
+    "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/06/24/phpsgcQX1.jpeg",
+    "published_at": "2026-06-23T21:26:40+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》First cholera case in three years reported",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481776",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/phpK5r8Xj.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
+    "published_at": "2026-06-23T21:26:40+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +52,7 @@
     "title": "《TAIPEI TIMES》Taiwan’s expo on tech and AI opens in Warsaw",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481775",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/php3JiSCf.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
+    "published_at": "2026-06-23T21:26:40+00:00",
     "source": "LTN"
   },
   {
@@ -20,47 +60,7 @@
     "title": "《TAIPEI TIMES》May export orders grew 47.2％",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481740",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/phpUAGSmU.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Authorities plan 9,000 drug-inspection points near schools",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481774",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/phpd4dHOy.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》May unemployment rate 3.27 ％ hits 26-year low",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481739",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/phpCgeHL9.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Drills aim to prepare public for 40°C heat",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481773",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/php02qHEx.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Lai touts efforts to combat transnational repression",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5481772",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/23/phpew7NJr.jpg",
-    "published_at": "2026-06-23T19:05:50+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:54",
-    "title": "法國致命熱浪來襲 創1947年以來最高溫",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5481819",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-06-23T19:05:50+00:00",
+    "published_at": "2026-06-23T21:26:40+00:00",
     "source": "LTN"
   }
 ]

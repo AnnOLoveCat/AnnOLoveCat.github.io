@@ -1,10 +1,42 @@
 [
   {
+    "time": "04:36",
+    "title": "美國5月PCE年增4.1% 創3年新高",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5484385",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-06-25T21:25:33+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:21",
+    "title": "第7號颱風北上 高屏防超大豪雨、台南留意大豪雨",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5484384",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-25T21:25:33+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:12",
+    "title": "阿曼附近貨輪遇襲再度引發供應疑慮 國際油價漲逾2%",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5484383",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-06-25T21:25:33+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:45",
+    "title": "荷莫茲海峽附近船舶遇襲 美官員：伊朗朝貨輪開火",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5484382",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-06-25T21:25:33+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:30",
     "title": "熱浪肆虐 英國瑞士迎史上最熱6月、荷蘭啟動高溫警報",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5484381",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-06-25T19:49:14+00:00",
+    "published_at": "2026-06-25T21:25:33+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "氣象署提醒高屏防超大豪雨 恆春半島留意大豪雨",
     "url": "https://news.ltn.com.tw/news/life/breakingnews/5484380",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-06-25T19:49:14+00:00",
+    "published_at": "2026-06-25T21:25:33+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》Cabinet passes amendments to boost penalties",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484326",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/php6ekfo1.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
+    "published_at": "2026-06-25T21:25:33+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》Cabinet proposes tax relief for families",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484330",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/phpa3oTRr.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》US lawmakers vow support for Taiwan",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484324",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/phpy9vzOo.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Scenic Jiji Line resumes full services after 4 years",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484331",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/phpoHYJec.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Agencies warn of major floods",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484329",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/phpVtn3Pg.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Taiwan thanks US for warning to governors",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5484328",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/06/25/phpqjUFs6.jpg",
-    "published_at": "2026-06-25T19:49:14+00:00",
+    "published_at": "2026-06-25T21:25:33+00:00",
     "source": "LTN"
   }
 ]

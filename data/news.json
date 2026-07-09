@@ -1,10 +1,42 @@
 [
   {
+    "time": "05:06",
+    "title": "美伊交火 荷莫茲海峽船舶通行量大減",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5500276",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-09T21:16:25+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:45",
+    "title": "晶片股領漲 美股3大指數收高",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5500274",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-07-09T21:16:25+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:54",
+    "title": "捷克女將諾斯科娃闖溫網決賽 將與同胞穆霍娃爭后冠",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5500272",
+    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
+    "published_at": "2026-07-09T21:16:25+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:54",
+    "title": "通膨與經濟隱憂夾擊 國際油價下跌約2%",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5500273",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-07-09T21:16:25+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:06",
     "title": "SK海力士赴美發行ADR 傳定價149美元",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5500268",
     "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-07-09T19:27:09+00:00",
+    "published_at": "2026-07-09T21:16:25+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "《TAIPEI TIMES》US, Japan, S Korea reaffirm Taiwan Strait views",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5500196",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/09/phps6IZYS.jpg",
-    "published_at": "2026-07-09T19:27:09+00:00",
+    "published_at": "2026-07-09T21:16:25+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》DPP staffer sentenced 10 years for espionage",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5500198",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/09/php7tL8vM.jpg",
-    "published_at": "2026-07-09T19:27:09+00:00",
+    "published_at": "2026-07-09T21:16:25+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》Tainted oil items must be removed by noon: official",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5500186",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/09/phpNNjViU.jpg",
-    "published_at": "2026-07-09T19:27:09+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Warning, cancelations issued for Bavi storm",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5500195",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/09/phpNZ25hL.jpg",
-    "published_at": "2026-07-09T19:27:09+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Coast guard Kinmen voyage hosts foreign lawmakers",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5500197",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/09/phpR0gGgU.jpg",
-    "published_at": "2026-07-09T19:27:09+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:12",
-    "title": "哈米尼下葬前美伊再交火 伊朗稱17死、美盟邦遇襲",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5500263",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-07-09T19:27:09+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "01:54",
-    "title": "西班牙擴大國防支出 川普態度軟化收貿易鞭",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5500257",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-07-09T19:27:09+00:00",
+    "published_at": "2026-07-09T21:16:25+00:00",
     "source": "LTN"
   }
 ]

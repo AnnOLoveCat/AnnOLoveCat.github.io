@@ -1,10 +1,42 @@
 [
   {
+    "time": "04:38",
+    "title": "花蓮秀林03:31規模3.8地震 4縣市有感 最大震度3級",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5513177",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/22/php5khEIg.jpg",
+    "published_at": "2026-07-21T20:59:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:45",
+    "title": "蓋亞那渡輪翻覆再尋獲14具遺體 增至41死77獲救",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5513179",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-21T20:59:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:36",
+    "title": "美伊衝突持續擴大 川普稱美方行動「遠未結束」",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5513178",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-21T20:59:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:21",
+    "title": "控中國竊取AI模型 貝森特：美擬調查且可能制裁",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5513176",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-21T20:59:34+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》 COVID-19 cases surge to epidemic levels: CDC",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513109",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpNh0iY1.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
+    "published_at": "2026-07-21T20:59:34+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "《TAIPEI TIMES》 Tainan restaurant awarded Michelin one-star status",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513113",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpsJuWjy.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
+    "published_at": "2026-07-21T20:59:34+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 June export orders reached record levels, MOEA says",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513116",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpIIau0u.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
+    "published_at": "2026-07-21T20:59:34+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 KMT submits motion to suspend drone funding",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513110",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpsskyD5.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Chinese helicopter crosses median line",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513108",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpxkvi4S.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Food safety law changes to boost oversight, fines",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513112",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpualHW0.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Study shows correlation in dementia for couples",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5513115",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/21/phpqyk8RX.jpg",
-    "published_at": "2026-07-21T19:07:48+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:06",
-    "title": "301調查關稅風波再起 美貿易代表指很快有行動",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5513173",
-    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-07-21T19:07:48+00:00",
+    "published_at": "2026-07-21T20:59:34+00:00",
     "source": "LTN"
   }
 ]

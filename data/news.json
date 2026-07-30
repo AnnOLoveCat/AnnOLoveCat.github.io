@@ -1,10 +1,42 @@
 [
   {
+    "time": "04:45",
+    "title": "微軟財報及油價回落激勵美股回彈 費半收漲逾8%",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5523694",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-07-30T20:59:39+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:00",
+    "title": "日本熊本強震釀災 美國務院慰問、隨時準備提供援助",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5523693",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-30T20:59:39+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:45",
+    "title": "澤倫斯基：俄軍以北韓飛彈襲烏克蘭村莊 一家5口喪命",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5523692",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-30T20:59:39+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:12",
+    "title": "川普提名布蘭希出任司法部長受阻 考慮暫時撤回",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5523690",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-07-30T20:59:39+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:00",
     "title": "《TAIPEI TIMES》 Taiwan suspends visa processing for Moroccans",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523645",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/phpY9EsUx.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
+    "published_at": "2026-07-30T20:59:39+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "《TAIPEI TIMES》 First N700ST bullet trains to start service next year",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523649",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/phpoJqKCH.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
+    "published_at": "2026-07-30T20:59:39+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 MOFA sets up relief fund for Kumamoto earthquake",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523650",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/phpDqPBi8.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
+    "published_at": "2026-07-30T20:59:39+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 Executive Yuan officially recognizes Siraya",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523644",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/phpnY3gaB.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Supreme Court rejects two appeals in TSMC leak case",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523647",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/php2B4VlO.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Ministry seeks to dissolve the CUPP",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5523633",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/07/30/phpigK6qq.jpg",
-    "published_at": "2026-07-30T19:14:28+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "02:00",
-    "title": "歐洲足總揚言抵制世界盃 反對FIFA引進私人資本",
-    "url": "https://sports.ltn.com.tw/news/breakingnews/5523684",
-    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
-    "published_at": "2026-07-30T19:14:28+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "01:30",
-    "title": "歐股漲多跌少 市場關注企業財報與央行動態",
-    "url": "https://ec.ltn.com.tw/article/breakingnews/5523679",
-    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-07-30T19:14:28+00:00",
+    "published_at": "2026-07-30T20:59:39+00:00",
     "source": "LTN"
   }
 ]

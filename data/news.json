@@ -1,10 +1,58 @@
 [
   {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 Defense spending to top NT$1.1 trillion",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533344",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpc1q7t0.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 Typhoon Dolphin to be closest to Taiwan today",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533346",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpSdf9qf.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 Stray Lanyu dogs attacking sea turtles: report",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533348",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpuJpVps.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 Taiwanese-Japanese movie selected for film festival",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533349",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpWHa2zd.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 Taipei to join PIF leaders’ meeting",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533345",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/php43sbVr.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:00",
+    "title": "《TAIPEI TIMES》 President Lai oversees Kaohsiung coastal drills",
+    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5533347",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpSaL4DW.jpg",
+    "published_at": "2026-08-08T19:23:08+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "02:21",
     "title": "保加利亞稱無人機載炸藥 烏克蘭否認蓄意攻擊",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5533374",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-08T18:26:00+00:00",
+    "published_at": "2026-08-08T19:23:08+00:00",
     "source": "LTN"
   },
   {
@@ -12,55 +60,7 @@
     "title": "泰校園血案學生還原現場 叮嚀媽媽別打電話防鈴響",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5533372",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "01:25",
-    "title": "南投仁愛01:10規模3.8地震 最大震度2級",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5533369",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/09/phpvhW2nT.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:33",
-    "title": "【8/9-8/15雨揚週運】好運正在路上！豬羊兔榮登「強運王」、6生肖遇貴人助攻",
-    "url": "https://ent.ltn.com.tw/news/breakingnews/5533280",
-    "image": "https://img.ltn.com.tw/Upload/ent/page/800/2026/08/08/phpdApTKP.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:16",
-    "title": "烏軍無人機發威！7月至今「俄版亞馬遜」20座倉庫被毀 重挫俄羅斯經濟",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5533365",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/09/5533365_1_1.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:00",
-    "title": "汐止透天厝深夜火警 1名婦人獲救意識清楚",
-    "url": "https://news.ltn.com.tw/news/society/breakingnews/5533360",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/5533360_1_1.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:59",
-    "title": "被問要不要和中國和平統一？鄭麗文給出條件",
-    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5533361",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/5533361_1_1.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "23:53",
-    "title": "特斯拉差點撞進夜市！高雄賓士車挨撞避免更大傷亡被讚爆",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5532744",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/08/phpe5V4ba.jpg",
-    "published_at": "2026-08-08T18:26:00+00:00",
+    "published_at": "2026-08-08T19:23:08+00:00",
     "source": "LTN"
   }
 ]

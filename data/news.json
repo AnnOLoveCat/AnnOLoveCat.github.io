@@ -1,66 +1,66 @@
 [
   {
+    "time": "01:30",
+    "title": "靖國神社禁Cosplay、穿軍裝 曾有人模仿納粹引發疑慮",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5538002",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "01:07",
+    "title": "Google 7款新品懶人包！Pixel 11四機領軍 首款防丟器登場",
+    "url": "https://3c.ltn.com.tw/news/67189",
+    "image": "https://img.ltn.com.tw/Upload/3c/page/2026/08/13/260813-67189-1.jpg",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:59",
+    "title": "莫札特雕像在故鄉被偷光！200多尊迷你金像不翼而飛",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5537995",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/5537995_1_1.jpg",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:58",
+    "title": "軍人投共翁曉玲促減刑為5年以下 律師批：跟普通詐欺、竊盜同等",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5537951",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/12/php4S8bev.png",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:56",
+    "title": "U16世界青棒》台灣隊4連勝闖8強 全美同鄉會端滷肉飯慰勞小將",
+    "url": "https://sports.ltn.com.tw/news/breakingnews/5537996",
+    "image": "https://img.ltn.com.tw/Upload/sports/page/800S/2026/08/13/5537996_2_1.jpg",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:54",
+    "title": "《經濟學人》評賴清德固執 國民黨：挾持台灣民主的就是賴",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5537986",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/5537986_1_1.jpg",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "00:50",
+    "title": "鬼月「避煞方位」大解密！12生肖踩對金氣、養心又守財",
+    "url": "https://ent.ltn.com.tw/news/breakingnews/5537965",
+    "image": "https://img.ltn.com.tw/Upload/ent/page/800/2026/08/12/phpwyJsdP.jpg",
+    "published_at": "2026-08-12T17:52:34+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "00:45",
     "title": "登山粉專暴紅6萬人追蹤！被踢爆AI生成假照片",
     "url": "https://news.ltn.com.tw/news/life/breakingnews/5537972",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/12/phpVGepkr.jpg",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:42",
-    "title": "澤倫斯基：烏軍今年已奪回26村落 收復745平方公里失土",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5537980",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/5537980_1_1.jpg",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:39",
-    "title": "能源股走弱拖累 歐股小幅收低",
-    "url": "https://ec.ltn.com.tw/article/breakingnews/5537991",
-    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:34",
-    "title": "夏季最浪漫的流星雨登場 擎天崗塞爆......網怨只看到滿山車燈！",
-    "url": "https://news.ltn.com.tw/news/life/breakingnews/5537967",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/12/phpA3SKnI.png",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:18",
-    "title": "NBA湖人又將易主？傳將以125億美元破紀錄價格出售",
-    "url": "https://sports.ltn.com.tw/news/breakingnews/5537984",
-    "image": "https://sports.ltn.com.tw/assets/images/rwd/1200_sport.png",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:18",
-    "title": "美夏季通膨放緩 油價與機票漲幅最高",
-    "url": "https://ec.ltn.com.tw/article/breakingnews/5537985",
-    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:14",
-    "title": "台童禮貌鞠躬餵奈良鹿 軟萌奶音喊「沒了」融化網友 日網：跟某國很不一樣",
-    "url": "https://news.ltn.com.tw/news/world/breakingnews/5537901",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/12/phpWeIWF0.jpg",
-    "published_at": "2026-08-12T16:50:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "00:14",
-    "title": "漢光42》捍衛中樞！光復大橋首度封橋演習 憲兵架防禦工事",
-    "url": "https://news.ltn.com.tw/news/def/breakingnews/5537982",
-    "image": "https://img.ltn.com.tw/Upload/def/page/800/2026/08/13/5537982_1_1.jpg",
-    "published_at": "2026-08-12T16:50:29+00:00",
+    "published_at": "2026-08-12T17:52:34+00:00",
     "source": "LTN"
   }
 ]

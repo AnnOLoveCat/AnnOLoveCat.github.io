@@ -1,10 +1,26 @@
 [
   {
+    "time": "04:21",
+    "title": "需求展望疲弱、美原油庫存大增 國際油價重挫",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5539298",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-08-13T20:33:50+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "03:54",
+    "title": "葉門叛軍稱以無人機攻擊沙烏地煉油廠",
+    "url": "https://news.ltn.com.tw/news/world/breakingnews/5539297",
+    "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
+    "published_at": "2026-08-13T20:33:50+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:30",
     "title": "羅馬近郊彈藥工廠爆炸 濃煙密布但無人受傷",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5539296",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +28,7 @@
     "title": "長榮航空12月直飛德里 成台灣與印度交流重要橋梁",
     "url": "https://ec.ltn.com.tw/article/breakingnews/5539294",
     "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +36,7 @@
     "title": "《TAIPEI TIMES》Taiwan targeted in AI-driven hacking campaign",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539232",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpyPge4y.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   },
   {
@@ -28,7 +44,7 @@
     "title": "《TAIPEI TIMES》Air force to form dedicated UAV unit, official says",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539234",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpie0mYC.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   },
   {
@@ -36,7 +52,7 @@
     "title": "《TAIPEI TIMES》Average renting cost up 1.2 percent: ministry",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539241",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpiigX5A.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   },
   {
@@ -44,23 +60,7 @@
     "title": "《TAIPEI TIMES》KMT set to freeze drone development budget",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539239",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpm9aNPC.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》NDC approves NHI budget range above NT$1 trillion",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539236",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpZ9a24d.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Air raid, Internet drills finish in north",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5539238",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/13/phpEORRqn.jpg",
-    "published_at": "2026-08-13T19:52:29+00:00",
+    "published_at": "2026-08-13T20:33:50+00:00",
     "source": "LTN"
   }
 ]

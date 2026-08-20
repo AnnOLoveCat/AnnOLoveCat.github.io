@@ -1,10 +1,26 @@
 [
   {
+    "time": "05:00",
+    "title": "美債殖利率上升、沃爾瑪財報拖累 美股多收黑",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5547075",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-08-20T21:20:35+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:45",
+    "title": "川普威脅重懲援助伊朗國家 油價大漲逾2%",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5547074",
+    "image": "https://ec.ltn.com.tw/assets/images/1200_ec.png",
+    "published_at": "2026-08-20T21:20:35+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "03:54",
     "title": "習近平到訪前 美認定美籍研究員敏辛遭中國不當拘留",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5547073",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +28,7 @@
     "title": "USGS：秘魯南部強震 規模6.7",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5547071",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +36,7 @@
     "title": "《TAIPEI TIMES》Ugandan officials return passports to four Taiwanese",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5547001",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/phpDu5Zc7.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   },
   {
@@ -28,7 +44,7 @@
     "title": "《TAIPEI TIMES》Fifteen are indicted for evading military service",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5547009",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/phpwP8jMc.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   },
   {
@@ -36,7 +52,7 @@
     "title": "《TAIPEI TIMES》Export order growth hits 61.9 percent",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5546988",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/php8EAAIb.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   },
   {
@@ -44,23 +60,7 @@
     "title": "《TAIPEI TIMES》Cabinet approves record NT$1.1225tn defense budget for next year",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5546999",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/phpLXN9CX.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Cabinet budgets for pension increase",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5547008",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/phpGY8kqq.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》Domestic travel subsidies to be available on Sept. 1",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5547002",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/20/phpixmMY7.jpg",
-    "published_at": "2026-08-20T20:19:34+00:00",
+    "published_at": "2026-08-20T21:20:35+00:00",
     "source": "LTN"
   }
 ]

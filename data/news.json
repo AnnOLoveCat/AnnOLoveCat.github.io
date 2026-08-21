@@ -1,10 +1,42 @@
 [
   {
+    "time": null,
+    "title": "房價漲、門檻卻未調 豪宅限貸12年 逼出「鳥籠宅時代」",
+    "url": "https://estate.ltn.com.tw/article/28690",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/08/21/260821-28690-1-UFVrj.jpg",
+    "published_at": "2026-08-21T21:16:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "【台北】土城新案不只拼住宅 企業總部同步卡位",
+    "url": "https://estate.ltn.com.tw/article/28692",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/08/21/260821-28692-6-wxd2V.jpg",
+    "published_at": "2026-08-21T21:16:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": null,
+    "title": "合雄大境 永豐文教特區 台鐵紅線桃園醫院站",
+    "url": "https://estate.ltn.com.tw/article/28683",
+    "image": "https://img.ltn.com.tw/Upload/house/page/2026/08/21/260821-28683-2-9tcHu.jpg",
+    "published_at": "2026-08-21T21:16:26+00:00",
+    "source": "LTN"
+  },
+  {
+    "time": "04:28",
+    "title": "安南區火災深夜驚爆！3名消防、6民眾受傷 多輛消防車起火",
+    "url": "https://news.ltn.com.tw/news/society/breakingnews/5548211",
+    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/22/5548211_1_1.jpg",
+    "published_at": "2026-08-21T21:16:26+00:00",
+    "source": "LTN"
+  },
+  {
     "time": "04:13",
-    "title": "安南空地竄詭異白火！ 消防死守火線防堵火勢",
+    "title": "安南區空地竄詭異白火！ 消防死守火線防堵火勢",
     "url": "https://news.ltn.com.tw/news/society/breakingnews/5548201",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/22/5548201_1_1.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
+    "published_at": "2026-08-21T21:16:26+00:00",
     "source": "LTN"
   },
   {
@@ -12,7 +44,7 @@
     "title": "美伊戰爭陷僵局 伊朗喊停戰、美國加碼制裁施壓",
     "url": "https://news.ltn.com.tw/news/world/breakingnews/5548209",
     "image": "https://news.ltn.com.tw/assets/images/all/250_ltn.png",
-    "published_at": "2026-08-21T20:17:16+00:00",
+    "published_at": "2026-08-21T21:16:26+00:00",
     "source": "LTN"
   },
   {
@@ -20,7 +52,7 @@
     "title": "《TAIPEI TIMES》 Four acquitted, two sentences upheld in bribery case",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548157",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/php6D6W5e.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
+    "published_at": "2026-08-21T21:16:26+00:00",
     "source": "LTN"
   },
   {
@@ -28,39 +60,7 @@
     "title": "《TAIPEI TIMES》 Prosecutors expand military spies probe",
     "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548156",
     "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/phpn3Q4tg.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 SEMI launches chip materials alliance",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548162",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/phpWSc45W.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Amendments to school act focus on student health",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548161",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/php1tYDyJ.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 MAC calls for release of pro-democracy HK activists",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548158",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/phpmOEhY8.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
-    "source": "LTN"
-  },
-  {
-    "time": "03:00",
-    "title": "《TAIPEI TIMES》 Tax exemption amendment passes third reading",
-    "url": "https://news.ltn.com.tw/news/focus/breakingnews/5548159",
-    "image": "https://img.ltn.com.tw/Upload/news/600/2026/08/21/phpAf6I4n.jpg",
-    "published_at": "2026-08-21T20:17:16+00:00",
+    "published_at": "2026-08-21T21:16:26+00:00",
     "source": "LTN"
   }
 ]
